@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Export rsyslog counters as prometheus metrics (impstats via omprog)
 
